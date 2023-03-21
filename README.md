@@ -1,2 +1,2 @@
 # RU_hackathon
-This site is used to minimize the Production Cost and maximizing the profit by assigning the right JOB to the right MACHINE.
+This site is used to minimize the Production Cost and maximizing the profit by assigning the right JOB to the right MACHINE.There are many large scale industry and Small scale industry in which large scale industry have every type machines but in small scale machines,they are in very limited amount so to assign the correct job to that machine which can complete the job in limited time and limited production cost.
